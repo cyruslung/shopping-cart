@@ -51,4 +51,4 @@ npm start
 
 ## 🔗 Link
 
-- [TODO APIs](https://todoo.5xcamp.us/api-docs/index.html)
+- [Shopping Cart](https://cyruslung.github.io/projects/shopping-cart/)
